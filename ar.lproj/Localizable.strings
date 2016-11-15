@@ -21,7 +21,7 @@ Thanks for installing Phantom. This tweak is POWERED by advertisements. Show you
 
 Installed version: %@
 Available version: %@</key>
-	<string>فيه نسخة جديدة الحين للفانتوم تقدر تحملها:
+	<string>فيه نسخة جديدة الآن للفانتوم تقدر تحملها:
 
 النسخة الي عندك: %1$@
 التحديث الجديد: %2$@</string>
@@ -33,7 +33,7 @@ Would you like to use @rpetrich's
 If you would like to download &amp; use @rpetrich's separate tweak to use in multiple applications, press "Use @rpetrich's" button.</key>
 	<string>شكلك تستخدم ايباد!
 
-ماودك تستخدم اداة @rpetrich's 
+هل ترغب ان تستخدم اداة @rpetrich's 
 "Full Force" مع الفانتوم لتفعيل وضع الايباد? 
 
 اذا تبي تحمل الاداة اضغط "Use @rpetrich's" زر.</string>
@@ -52,7 +52,7 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<key>Album</key>
 	<string>الالبوم</string>
 	<key>Always Keep Snaps</key>
-	<string>ابقاء المحادثات دايمن</string>
+	<string>ابقاء المحادثات باستمرار</string>
 	<key>Are you sure you want to delete all logged videos?</key>
 	<string>انت متاكد تبي تحذف جميع تسجيلات مقاطع الفيديو؟</string>
 	<key>Are you sure you want to delete all saved videos?</key>
@@ -70,7 +70,7 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<key>Back</key>
 	<string>رجوع</string>
 	<key>Big Thanks to: Thomas Finch</key>
-	<string>شكراً للأخ محمد نذير</string>
+	<string></string>
 	<key>Bluetooth Required</key>
 	<string>لازم بلوتوث</string>
 	<key>Bug Report</key>
